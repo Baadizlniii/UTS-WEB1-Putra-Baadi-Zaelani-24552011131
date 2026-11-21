@@ -313,35 +313,36 @@ Folder: [screenshots/postman/](./screenshots/postman/)
 
 Dokumentasi berikut merupakan bukti pengujian REST API menggunakan Postman.
 
-**1. DELETE — Menghapus Laporan**
 
-![DELETE Menghapus Laporan](screenshots/postman/DEL%20Menghapus%20Laporan.jpg)
-
-Pengujian method `DELETE` untuk menghapus data laporan berdasarkan ID.
-
-**2. GET — Melihat Semua Laporan**
+**1. GET — Melihat Semua Laporan**
 
 ![GET Melihat Semua Laporan](screenshots/postman/GET%20Melihat%20semua%20paket.jpg)
 
 Pengujian method `GET` untuk menampilkan seluruh daftar laporan.
 
-**3. GET — Melihat Satu Laporan**
+**2. GET — Melihat Satu Laporan**
 
 ![GET Satu Laporan](screenshots/postman/GET%20Satu%20Laporan.jpg)
 
 Pengujian method `GET` dengan parameter ID untuk menampilkan detail satu laporan.
 
-**4. POST — Menambah Laporan**
+**3. POST — Menambah Laporan**
 
 ![POST Tambah Laporan](screenshots/postman/POST%20Tambah%20Laporan.jpg)
 
 Pengujian method `POST` untuk menambahkan laporan baru.
 
-**5. PUT — Mengubah Status Laporan**
+**4. PUT — Mengubah Status Laporan**
 
 ![PUT Mengubah Laporan](screenshots/postman/PUT%20Mengubah%20Laporan.jpg)
 
 Pengujian method `PUT` untuk memperbarui status laporan.
+
+**5. DELETE — Menghapus Laporan**
+
+![DELETE Menghapus Laporan](screenshots/postman/DEL%20Menghapus%20Laporan.jpg)
+
+Pengujian method `DELETE` untuk menghapus data laporan berdasarkan ID.
 
 ## Identitas Pengembang
 
